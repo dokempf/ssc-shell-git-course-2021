@@ -21,7 +21,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 ---
 
 
-<h2 id="setup">Setup</h2>
+<h2 id="setup">Setup instructions for courses based on Software Carpentry materials</h2>
 
 <p>
   To participate in a
