@@ -43,3 +43,4 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 {% include swc/setup.html %}
+{% include install_instructions/videoconferencing.html %}
