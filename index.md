@@ -43,4 +43,16 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 {% include swc/setup.html %}
+
+
+<h3>Data Files for the lessons</h3>
+
+<p>
+You should download the following archive, place it on your Desktop and unpack it:
+
+* [Unix Shell lesson material](http://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip)
+
+This archives contain the example data that will be used during the lesson.
+</p>
+
 {% include install_instructions/videoconferencing.html %}
