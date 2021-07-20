@@ -50,8 +50,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p>
 You should download the following archive, place it on your Desktop and unpack it:
 
-* [Unix Shell lesson material](http://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip)
-
+<ul>
+<li> <a href="http://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip">Unix Shell lesson material</a></li>
+</ul>
 This archives contain the example data that will be used during the lesson.
 </p>
 
